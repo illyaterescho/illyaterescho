@@ -1,26 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0f1b4c,50:3366e8,100:7aa2ff&text=dxty&fontSize=84&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Swift%20%C2%B7%20AI%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D1%81%D1%82%D1%80%D0%BE%D1%97%20%C2%B7%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B8%2C%20%D1%8F%D0%BA%D0%B8%D0%BC%D0%B8%20%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D1%8E%D1%81%D1%8F%20%D1%81%D0%B0%D0%BC&descSize=19&descAlignY=58" alt="dxty" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Піксельна кімната розробника" width="100%">
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3366E8&center=true&vCenter=true&width=640&height=48&lines=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%2C%20%D1%8F%20dxty%20%F0%9F%91%8B;%D0%91%D1%83%D0%B4%D1%83%D1%8E%20Questionio%20%E2%80%94%20AI-%D0%BA%D0%BE%D0%BF%D1%96%D0%BB%D0%BE%D1%82%20%D0%B4%D0%BB%D1%8F%20macOS;Swift%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20Java%20%C2%B7%20C%23;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E%20%D1%88%D0%B2%D0%B8%D0%B4%D0%BA%D1%96%20%D0%B9%20%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%96%20%D1%96%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B8" alt="Привіт, я dxty 👋 · Будую Questionio — AI-копілот для macOS · Swift · TypeScript · Python · Java · C# · Люблю швидкі й красиві інтерфейси">
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=illyaterescho.illyaterescho&left_color=%23555555&right_color=%233366e8&left_text=%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D0%BB%D1%8F%D0%B4%D1%96%D0%B2" alt="Переглядів профілю">
-</p>
-
-## Про мене
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Піксельна кімната розробника" width="400" align="right">
-
-- <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="22" height="22" align="absmiddle"> Будую **Questionio** — AI-копілот для macOS, який чує питання в розмові й за секунду показує відповідь
-- <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="22" height="22" align="absmiddle"> Цікавить AI на пристрої: розпізнавання мови, швидкі моделі, інтерфейси, які не заважають
-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="22" height="22" align="absmiddle"> Люблю доводити до дрібниць — від затримки в мілісекундах до тіні під карткою
-- <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="22" height="22" align="absmiddle"> Пишу на Swift, TypeScript, Python, Java і C#; роблю й нативні програми, і вебсайти
-- <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="22" height="22" align="absmiddle"> Відкритий до цікавих проєктів і співпраці
-
-<br clear="right">
 
 ## Стек
 
