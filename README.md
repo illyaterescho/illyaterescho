@@ -2,6 +2,18 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Піксельна кімната розробника" width="100%">
 </p>
 
+## Активність
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=illyaterescho&locale=uk&date_format=j%20M%5B%20Y%5D&card_width=880&background=0D1117&border=30363D&stroke=30363D&ring=39D353&fire=39D353&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E">
+  <img alt="Усього внесків, поточна й найдовша серія" src="https://streak-stats.demolab.com?user=illyaterescho&locale=uk&date_format=j%20M%5B%20Y%5D&card_width=880&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=40C463&fire=30A14E&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=216E39&sideLabels=59636E&dates=59636E" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=illyaterescho&area=true&radius=6&height=300&custom_title=%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%96%D1%81%D1%82%D1%8C%20%D0%BF%D0%BE%20%D0%B4%D0%BD%D1%8F%D1%85&bg_color=0d1117&color=8b949e&title_color=e6edf3&line=39d353&point=26a641&area_color=0e4429&border_color=30363d">
+  <img alt="Графік активності по днях" src="https://github-readme-activity-graph.vercel.app/graph?username=illyaterescho&area=true&radius=6&height=300&custom_title=%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%96%D1%81%D1%82%D1%8C%20%D0%BF%D0%BE%20%D0%B4%D0%BD%D1%8F%D1%85&bg_color=ffffff&color=59636e&title_color=1f2328&line=40c463&point=216e39&area_color=9be9a8&border_color=d0d7de" width="100%">
+</picture>
+
 ## Стек
 
 <p align="center">
