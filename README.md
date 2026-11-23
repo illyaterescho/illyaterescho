@@ -41,10 +41,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,apple,ts,react,nextjs,tailwind,threejs,angular,py,fastapi,docker,java,cs,git&theme=dark&perline=14">
   <img alt="Swift, Apple, TypeScript, React, Next.js, Tailwind, Three.js, Angular, Python, FastAPI, Docker, Java, C#, Git" src="https://skillicons.dev/icons?i=swift,apple,ts,react,nextjs,tailwind,threejs,angular,py,fastapi,docker,java,cs,git&theme=light&perline=14">
 </picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/illyaterescho/illyaterescho/output/snake-dark.svg">
-  <img alt="Змійка, що з'їдає графік внесків" src="https://raw.githubusercontent.com/illyaterescho/illyaterescho/output/snake.svg">
-</picture>
