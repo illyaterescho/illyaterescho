@@ -38,6 +38,6 @@
 ### Стек
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,apple,ts,react,nextjs,tailwind,threejs,angular,py,fastapi,docker,java,cs,git&theme=dark&perline=14">
-  <img alt="Swift, Apple, TypeScript, React, Next.js, Tailwind, Three.js, Angular, Python, FastAPI, Docker, Java, C#, Git" src="https://skillicons.dev/icons?i=swift,apple,ts,react,nextjs,tailwind,threejs,angular,py,fastapi,docker,java,cs,git&theme=light&perline=14">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift%2Capple%2Cts%2Creact%2Cnextjs%2Ctailwind%2Cthreejs%2Cangular%2Cpy%2Cfastapi%2Cdocker%2Cjava%2Ccs%2Cgit&theme=dark&perline=14">
+  <img alt="Swift, Apple, TypeScript, React, Next.js, Tailwind, Three.js, Angular, Python, FastAPI, Docker, Java, C#, Git" src="https://skillicons.dev/icons?i=swift%2Capple%2Cts%2Creact%2Cnextjs%2Ctailwind%2Cthreejs%2Cangular%2Cpy%2Cfastapi%2Cdocker%2Cjava%2Ccs%2Cgit&theme=light&perline=14">
 </picture>
