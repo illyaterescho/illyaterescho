@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="879" height="299" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="44" font-size="15" font-weight="600" fill="#e6edf3">Мови в усіх моїх репозиторіях</text>
+<text x="28" y="64" font-size="11.5" fill="#9198a1">разом із приватними, за обсягом коду</text>
+<clipPath id="bar"><rect x="28" y="82" width="0" height="12" rx="6"><animate attributeName="width" from="0" to="504.0" begin="0.2s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/></rect></clipPath>
+<rect x="28" y="82" width="504.0" height="12" rx="6" fill="#21262d"/><g clip-path="url(#bar)">
+<rect x="28.0" y="82" width="185.6" height="12" fill="#3178c6"/>
+<rect x="213.1" y="82" width="145.2" height="12" fill="#F05138"/>
+<rect x="357.8" y="82" width="108.4" height="12" fill="#4F5D95"/>
+<rect x="465.8" y="82" width="16.7" height="12" fill="#f34b7d"/>
+<rect x="482.0" y="82" width="16.6" height="12" fill="#b07219"/>
+<rect x="498.1" y="82" width="15.7" height="12" fill="#f1e05a"/>
+<rect x="513.3" y="82" width="8.6" height="12" fill="#178600"/>
+<rect x="521.4" y="82" width="6.2" height="12" fill="#3572A5"/>
+<rect x="527.1" y="82" width="5.4" height="12" fill="#8a8a8a"/>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.5s" fill="freeze"/><circle cx="34" cy="124" r="6" fill="#3178c6"/><text x="48" y="128" font-size="13.5" font-weight="600" fill="#e6edf3">TypeScript</text><text x="264" y="128" font-size="13" fill="#9198a1" text-anchor="end">36.7%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.5s" fill="freeze"/><circle cx="294" cy="124" r="6" fill="#F05138"/><text x="308" y="128" font-size="13.5" font-weight="600" fill="#e6edf3">Swift</text><text x="524" y="128" font-size="13" fill="#9198a1" text-anchor="end">28.7%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.5s" fill="freeze"/><circle cx="34" cy="154" r="6" fill="#4F5D95"/><text x="48" y="158" font-size="13.5" font-weight="600" fill="#e6edf3">PHP</text><text x="264" y="158" font-size="13" fill="#9198a1" text-anchor="end">21.4%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.96s" dur="0.5s" fill="freeze"/><circle cx="294" cy="154" r="6" fill="#f34b7d"/><text x="308" y="158" font-size="13.5" font-weight="600" fill="#e6edf3">C++</text><text x="524" y="158" font-size="13" fill="#9198a1" text-anchor="end">3.2%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.08s" dur="0.5s" fill="freeze"/><circle cx="34" cy="184" r="6" fill="#b07219"/><text x="48" y="188" font-size="13.5" font-weight="600" fill="#e6edf3">Java</text><text x="264" y="188" font-size="13" fill="#9198a1" text-anchor="end">3.2%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.5s" fill="freeze"/><circle cx="294" cy="184" r="6" fill="#f1e05a"/><text x="308" y="188" font-size="13.5" font-weight="600" fill="#e6edf3">JavaScript</text><text x="524" y="188" font-size="13" fill="#9198a1" text-anchor="end">3.0%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.32s" dur="0.5s" fill="freeze"/><circle cx="34" cy="214" r="6" fill="#178600"/><text x="48" y="218" font-size="13.5" font-weight="600" fill="#e6edf3">C#</text><text x="264" y="218" font-size="13" fill="#9198a1" text-anchor="end">1.6%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.44s" dur="0.5s" fill="freeze"/><circle cx="294" cy="214" r="6" fill="#3572A5"/><text x="308" y="218" font-size="13.5" font-weight="600" fill="#e6edf3">Python</text><text x="524" y="218" font-size="13" fill="#9198a1" text-anchor="end">1.1%</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.56s" dur="0.5s" fill="freeze"/><circle cx="34" cy="244" r="6" fill="#8a8a8a"/><text x="48" y="248" font-size="13.5" font-weight="600" fill="#e6edf3">C</text><text x="264" y="248" font-size="13" fill="#9198a1" text-anchor="end">1.0%</text></g>
+<line x1="566" y1="28" x2="566" y2="272" stroke="#30363d"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.5s" fill="freeze"/><text x="596" y="68" font-size="30" font-weight="700" fill="#4c7dff">10</text><text x="644" y="66" font-size="14" fill="#e6edf3">проєктів на GitHub</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.45s" dur="0.5s" fill="freeze"/><text x="596" y="126" font-size="30" font-weight="700" fill="#4c7dff">9</text><text x="626" y="124" font-size="14" fill="#e6edf3">мов програмування</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.70s" dur="0.5s" fill="freeze"/><text x="596" y="184" font-size="30" font-weight="700" fill="#4c7dff">8</text><text x="626" y="182" font-size="14" fill="#e6edf3">релізів Questionio</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.95s" dur="0.5s" fill="freeze"/><text x="596" y="242" font-size="30" font-weight="700" fill="#4c7dff">182</text><text x="662" y="240" font-size="14" fill="#e6edf3">автотести в Questionio</text></g>
+</svg>
