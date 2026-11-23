@@ -48,7 +48,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
   <img alt="Мови в усіх моїх репозиторіях: TypeScript, Swift, PHP, C++, Java, JavaScript, C#, Python, C" src="assets/metrics-light.svg" width="100%">
 </picture>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7aa2ff,50:3366e8,100:0f1b4c" alt="" width="100%">
-</p>
